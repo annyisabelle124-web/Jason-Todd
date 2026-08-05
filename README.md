@@ -8,7 +8,7 @@
 <title>Jason Todd</title>
 </head>
 <body>
-<h1>Jason Todd</h1>
-<p>Tudo sobre o Capuz Vermelho</p>
+<h1>Tudo sobre o Capuz Vermelho</h1>
+<p></p>
 </body>
 </html>
