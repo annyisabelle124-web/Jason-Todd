@@ -1,5 +1,4 @@
 # Jason-Todd
-<!DOCTYPE html>
 
 <html lang="pt-br">
 <head>
